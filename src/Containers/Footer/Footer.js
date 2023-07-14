@@ -12,7 +12,7 @@ class Footer extends Component {
               href="https://templatemo.com"
               className="tm-footer-link"
             >
-              Shubz's B
+              VENKATESH S
             </a>
           </p>
         </div>
